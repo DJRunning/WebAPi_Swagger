@@ -22,3 +22,4 @@ WebAPI中使用Swagger
      c.InjectJavaScript(System.Reflection.Assembly.GetExecutingAssembly(), "SwaggerTest.Js.swagger.js");
  
  4、项目中涉及到了认证与授权在ApiAuthorizationFilterAttribute类中
+ 5、fork测试下 修改
